@@ -14,3 +14,7 @@ The directory structure is the primary organizational tool. While no key files w
 # Usage
 
 This directory is intended for personal study and reference. The user can navigate to the relevant topic directory to find notes, resources, and exercises. The `PROJECTS` subdirectories are likely for hands-on practice and application of the learned concepts.
+
+# Repository Information
+
+**GitHub Repository:** https://github.com/saoloh/AI
